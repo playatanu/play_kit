@@ -1,10 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:play_kit/play_kit.dart';
 
-void main() {
-  runApp(const PlayMaterial());
-}
-
 class PlayMaterial extends StatelessWidget {
   const PlayMaterial({Key? key}) : super(key: key);
 
