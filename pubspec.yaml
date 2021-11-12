@@ -1,6 +1,6 @@
 name: play_kit
 description: PLAY_KIT package containing widgets to implement glass ui in flutter apps.
-version: 0.0.1+1
+version: 0.0.2
 homepage: 'https://github.com/playatanu/play_kit'
 repository: 'https://github.com/playatanu/play_kit'
 
