@@ -1,6 +1,6 @@
 name: play_kit
-description: play_kit package containing widgets to implement glass morphism in flutter apps. You can controll Glass effect blur radius , height , blur color etc.
-version: 0.0.1
+description: PLAY_KIT package containing widgets to implement glass ui in flutter apps.
+version: 0.0.1+1
 homepage: 'https://github.com/playatanu/play_kit'
 repository: 'https://github.com/playatanu/play_kit'
 
